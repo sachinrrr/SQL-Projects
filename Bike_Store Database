@@ -170,5 +170,5 @@ c.first_name,
 c.last_name 
 FROM Customers c
 WHERE c.customer_id NOT IN (SELECT DISTINCT 
-							o.customer_id 
-							FROM Orders o);
+			    o.customer_id 
+			    FROM Orders o);
