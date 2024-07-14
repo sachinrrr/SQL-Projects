@@ -1,15 +1,3 @@
-Database Schema
-The database schema consists of several interrelated tables that simulate a Bike Sore Dtabase:
-
-Customers: Contains customer details such as name, email, phone, and address.
-Products: Stores product information including product names, categories, brands, and prices.
-Orders: Records order details with references to customers and order dates.
-Orderdetails: Contains details of each order, including product IDs, quantities, prices, and discounts.
-Stores: Holds information about physical store locations.
-Stocks: Tracks the quantity of products available in each store.
-Brands: Lists all product brands.
-Category: Defines product categories.
-
 -- 1.Retrieve all customer names and their corresponding email addresses.
 SELECT
 first_name,
