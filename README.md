@@ -14,3 +14,6 @@ Stores: Holds information about physical store locations.
 Stocks: Tracks the quantity of products available in each store.
 Brands: Lists all product brands.
 Category: Defines product categories.
+
+ER Diagram
+![Blank diagram](https://github.com/user-attachments/assets/8706645a-1f7d-4a43-8533-3f988533efaa)
