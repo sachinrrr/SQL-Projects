@@ -1,4 +1,4 @@
-SQL Project: Bike Store Analysis
+# SQL Project: Bike Store Analysis
 
 Project Overview
 Welcome to the Comprehensive SQL Project for Bike Store Database Management. The project includes a series of tasks that encompass data retrieval, aggregation, complex queries, and data manipulation.
